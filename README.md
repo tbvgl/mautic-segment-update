@@ -26,7 +26,7 @@
 
 - Make the script executable:
     ```
-    chmode +x update-segment.sh
+    chmod +x update-segment.sh
     ```
 
 - Run the script:
