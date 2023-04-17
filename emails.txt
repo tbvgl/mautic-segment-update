@@ -1,0 +1,2 @@
+myemail@mydomain.tld
+myotheremail@anotherdomain.tld
