@@ -6,7 +6,7 @@ if ! command -v jq &> /dev/null; then
 fi
 
 if [ -z "$1" ]; then
-    echo "Usage: ./myscript.sh <segment_name>"
+    echo "Usage: ./update-segment.sh <segment_name>"
     exit 1
 fi
 
